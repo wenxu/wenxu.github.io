@@ -1,3 +1,9 @@
 /* CSS Reset */
-body,h1,h2,h3,h4,h5,h6,p,blockquote,dl,dt,dd,ul,ol,li,form,button,input,textarea,th,td{margin:0;padding:0;}body,button,input,select,textarea{font:12px/1.5 arial,\5b8b\4f53,sans-serif;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}i,em{font-style:normal;}li{list-style:none;}a{text-decoration:none;}a:hover{text-decoration:underline;}img{border:0;}button,input,select,textarea{font-size:100%;}table{border-collapse:collapse;border-spacing:0;}label,input,button{vertical-align:middle;}.clearfix:after{visibility:hidden;display:block;content:"";clear:both;height:0;}.clearfix{zoom:1;}
-.content{ color: #333; font-size: 72px; text-align: center; font-family: 'Microsoft Yahei';}
+body,h1,h2,h3,h4,h5,h6,p,blockquote,dl,dt,dd,ul,ol,li,form,button,input,textarea,th,td{margin:0;padding:0;}body,button,input,select,textarea{font:12px/1.5 'Microsoft Yahei',arial,\5b8b\4f53,sans-serif;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}i,em{font-style:normal;}li{list-style:none;}a{text-decoration:none;}a:hover{text-decoration:underline;}img{border:0;}button,input,select,textarea{font-size:100%;}table{border-collapse:collapse;border-spacing:0;}label,input,button{vertical-align:middle;}.clearfix:after{visibility:hidden;display:block;content:"";clear:both;height:0;}.clearfix{zoom:1;}
+
+
+a{color: #3C619E}
+p{ text-align: center;}
+p i{ border-bottom: 1px dotted;}
+p:first-child{ margin-bottom: 50px; color: #333; font-size: 72px;}
+p:not(:first-child){ font-size: 26px; line-height: 36px; font-family: "Palatino Linotype"; color: #454545;}
