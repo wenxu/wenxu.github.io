@@ -1,4 +1,4 @@
-body,h1,h2,h3,p,ul,ol,li{margin:0;padding:0}body{background:#fbf4e1;padding:100px 0;font:14px/1.5 'Microsoft Yahei',arial,"\5b8b\4f53",sans-serif}h1,h2,h3{font-size:100%;font-weight:400}i,em{font-style:normal}li{list-style:none}a{text-decoration:none;}a:hover{text-decoration:underline;}img{border:0}.clearfix:after{visibility:hidden;display:block;content:"";clear:both;height:0}.clearfix{zoom:1}
+body,h1,h2,h3,p,ul,li{margin:0;padding:0}body{background:#fbf4e1;padding:100px 0;font:14px/1.5 'Microsoft Yahei',arial,"\5b8b\4f53",sans-serif}h1,h2,h3{font-size:100%;font-weight:400}i,em{font-style:normal}li{list-style:none}a{text-decoration:none;}a:hover{text-decoration:underline;}img{border:0}.clearfix:after{visibility:hidden;display:block;content:"";clear:both;height:0}.clearfix{zoom:1}
 
 /*container*/
 h1{ position: absolute; left: 225px; top: 10px; width: 144px; height: 79px; background: url(../img/about.png) no-repeat; text-indent: -999em;}
