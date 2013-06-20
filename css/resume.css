@@ -6,8 +6,8 @@ h2{ margin: 20px 0 10px 0; color: #f49250; font-size: 20px;}
 .wrap{padding:0 0 25px 300px; overflow: hidden; zoom:1;}
 .wrap li{ line-height: 28px; font-size: 16px;}
 .header{ position: relative;}
-.pic{ position: absolute; left: 110px; top: 0; width: 136px; height: 102px;}
-.pic img{ width: 136px; height: 102px;}
+.pic{ position: absolute; left: 130px; top: 0; width: 120px; height: 150px; border-bottom: 1px solid #aaa; border-right: 1px solid #aaa;}
+.pic img{ width: 120px; height: 150px;}
 .about{ margin-bottom: 30px; line-height: 30px; font-size: 18px; color: #f49250;}
 .small-txt{ line-height: 1.5; color: #7d5b4b; font-size: 14px; font-family:"\5b8b\4f53";}
 .bgG{ background: #a1c63b; color: #fff; border-bottom: 1px solid #99BC38; border-top: 1px solid #6E8828; box-shadow: inset 0 1px 2px rgba(0,0,0,0.2),0 1px 0 #fff;}
