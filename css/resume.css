@@ -27,3 +27,10 @@ h2{ margin: 20px 0 10px 0; color: #f49250; font-size: 20px;}
 .contact p{ font-size: 26px; line-height: 36px; font-family: "Palatino Linotype"; color: #7d5b4b;}
 .contact p i{ border-bottom: 1px dotted;}
 .ie .work li p{ background: #000; opacity: 0.8; filter:alpha(opacity=80);}
+
+/* iPhone and Smartphones */
+@media screen and (min-device-width: 320px) and (min-device-width: 480px) {
+	h1{ position: auto; width:100%; height:45px; line-height: 45px; background:none; text-indent: 0;}
+	.wrap{padding:0 0 25px 10px; overflow: hidden; zoom:1;}
+	.pic{ display: none;}
+}
